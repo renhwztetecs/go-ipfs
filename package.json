@@ -574,6 +574,12 @@
       "hash": "QmbyJLe6SdVR5VLjtcoLdKhUuV4RT9a1FxX28zaWnY34d8",
       "name": "go-random-files",
       "version": "1.0.0"
+    },
+    {
+      "author": "whyrusleeping",
+      "hash": "QmWchsfMt9Re1CQaiHqPQC1DrZ9bkpa6n229dRYkGyLXNh",
+      "name": "dns",
+      "version": "0.0.0"
     }
   ],
   "gxVersion": "0.10.0",
